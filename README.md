@@ -22,6 +22,8 @@ We'd like you to build an application that displays the first 151 Pokémon. Idea
 ## Instructions
 
 ### Preparing
+Please do not create a public fork of this repo. This is to stop other applicants from seeing your solution. See how to share the repo with us at the end of the steps.
+
 Clone this repo down to your local machine and run `npm install` to install the project dependencies. To start the dev server, run `npm run dev` and it will fire up at `localhost:3000`
 
 ### Step 1
@@ -47,5 +49,6 @@ Extend the search functionality with filters/sorting:
 
 ## Submitting your work
 
-To submit the challenge, either upload it to your Github and provide us access (preferred) or zip up the project (minus the node modules) and return it back to us via email.
+To submit the challenge, either upload it to your Github in a private repo and provide us access (preferred) or zip up the project (minus the node modules) and return it back to us via email.
 
+If you're following the GitHub route please give read access to: louisotto@switchshop.co.uk and matthewslater@switchshop.co.uk
